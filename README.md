@@ -1,0 +1,1 @@
+# Hell-Miner-Discord-Bot-Changelog
