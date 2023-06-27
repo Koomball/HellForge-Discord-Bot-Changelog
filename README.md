@@ -1,12 +1,15 @@
-# Hell Miner Discord Bot Changelog
-Next Stable Version: v0.2 [(version checklist)](#version-checklist)<br>
-Current Stable Version: v0.1.4 [(stable changelog)](#stable-changelog)<br>
-`10/06/2023 4:17AM, GMT+10` <br>
+# HellForge Discord Bot Changelog
+Next Stable Version: v2 [(version checklist)](#version-checklist)<br>
+Current Version: unrealeasedAlpha03 [(changelog)](#changelog)<br>
+`28/06/2023 2:13AM, GMT+10` <br>
 <br>
-Current Beta Version: v0.2pre-release 1 [(beta changelog)](#beta-changelog)<br>
-`13/06/2023 04:08AM, GMT+10`
 
-# Stable Changelog
+# Changelog
+
+### Hell Miner to HellForge and v2
+*28 June 2023* <br>
+Hell Miner is now expanding into a whole new vision being renamed HellForge this bot will be an RPG style bot unlike any other as you rise up the ring of hell and traverse the many realms ahead, This bot is being redeveloped in Javascript using discord.js and this will take time. Refer here for teasers and refer to the v2 checklist to see how far off we are! <br>
+
 ### v0.1.4: 10 June 2023 04:17AM
 • Added Minor XP Potion (2x XP, Crafted or bought from shop) <br>
 • Added Novice XP Potion (5x XP, Crafted or bought from shop) <br>
@@ -36,36 +39,6 @@ Current Beta Version: v0.2pre-release 1 [(beta changelog)](#beta-changelog)<br>
 Version in Development: `v0.2` <br>
 ETA: 14/06/2023 <br>
 ### Areas
-✓ The Depths <br>
+✘ The Meadows
+✘ Ash Pits
 <br>
-### Resources
-✓ Demonite (Ash Pits) <br>
-✓ Arbonite (Ash Pits) <br>
-✓ Sand (The Depths) <br>
-✓ Pale Stone (The Depths) <br>
-✓ Quartz (The Depths) <br>
-✓ Amethyst (The Depths) <br>
-✓ Destrium (The Depths) <br>
-<br>
-### Recipes
-✓ Minor XP Potion <br>
-✘ Novice XP Potion <br>
-✓ Mining Strength Potion <br>
-✓ Zircon Pickaxe <br>
-✘ Refined Iron Pickaxe <br>
-✘ Axymium Pickaxe <br>
-✘ Glass <br>
-✘ Tetranite <br>
-✘ Arbonite <br>
-<br>
-### Commands
-✓ /vote <br>
-✘ /value (returns the essence value of the equipped pickaxe) <br>
-✘ /milestones <br>
-<br>
-### Systems
-✓ Pickaxe dismantling. <br>
-✓ New equipment layout and system. <br>
-### Other
-✘ The Depths: Item Icons <br>
-
